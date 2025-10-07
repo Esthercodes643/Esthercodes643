@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi there 👋, I'm Esther!
+!--# Hi there 👋, I'm Esther!
 
 🌸 **Frontend Developer | React & JavaScript Enthusiast**  
 
