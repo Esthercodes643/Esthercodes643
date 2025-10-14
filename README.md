@@ -1,7 +1,13 @@
 
+
 <h1 align="center">Hey <img src="https://camo.githubusercontent.com/bbc70b6515e817d1943dadf19ca39d94cb2154df20bb1b65f942e418810d2049/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" height="30px" width="30px"> I'm Esther D</h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- Hey! 💫 I love mixing design and code to create websites that feel alive🔥.
+- Frontend development is my way to bring creativity to life using React ⚛️ , Tailwind 💅 and GSAP 🚀.
+
 
 ## 🛠️ Languages & Tools
 
@@ -14,6 +20,9 @@
 ### Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
+## 💬 
+>  I build pixels that move and moments that matter.✨
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
@@ -25,20 +34,10 @@
 </div>
 
 
-
-
-
-
-
-
 🌸 **Frontend Developer | React & JavaScript Enthusiast**  
 
 I love creating **beautiful, user-friendly and interactive web applications**. My focus is on **frontend development** making websites that are both functional and aesthetic.  
 
-## 🛠 Tech Stack
-- **Languages:** HTML, CSS, JavaScript  
-- **Frameworks/Libraries:** React, React Router  
-- **Styling:** CSS3, Sass, Tailwind CSS  
-- **Version Control:** Git & GitHub  
+
 
 
