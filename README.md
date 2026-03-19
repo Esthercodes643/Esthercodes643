@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 - Hey! 💫 I love mixing design and code to create websites that feel alive🔥.
-- Frontend development is my way to bring creativity to life using React ⚛️ , Tailwind 💅 and GSAP 🚀.
+- 🌸 Junior Software Developer
 
 
 ## 🛠️ Languages & Tools
